@@ -23,9 +23,6 @@ class Lista:
                 
         if enc: return pos
         else: return -1                
-    
-    def quicksort(self):
-        pass
         
     def ordenar(self,orden):
         orden = orden.lower()
